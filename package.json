@@ -1,6 +1,6 @@
 {
   "name": "mkp-raect-native-picker",
-  "version": "1.0.9",
+  "version": "2.0.0",
   "description": "cross platform picker for Ios and Android",
   "main": "index.js",
   "scripts": {
