@@ -1,6 +1,6 @@
 {
-  "name": "mkp-react-native-picker",
-  "version": "1.0.7",
+  "name": "mkp-raect-native-picker",
+  "version": "1.0.9",
   "description": "cross platform picker for Ios and Android",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MonkeyKingPlus/react-native-picker.git"
+    "url": "git+ttps://github.com/Carl0395/react-native-picker.git"
   },
   "keywords": [
     "react-native",
